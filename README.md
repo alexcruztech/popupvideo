@@ -41,7 +41,7 @@ Below is a screenshot that show how pop-up video looks in action:
 
 Watch a video demonstration of the pop-up feature:
 
-[![Click Here](screenshots/video.png)](https://www.example.com)
+[![Click Here](screenshots/video.png)](https://www.loom.com/share/8367ec56b5394b9a9d0e4df215b8cb74?sid=2ea9ce34-4ca1-49b1-8a16-556a26f914e1)
 
 
 ## Contributions
