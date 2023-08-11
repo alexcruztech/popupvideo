@@ -41,7 +41,8 @@ Below is a screenshot that show how pop-up video looks in action:
 
 Watch a video demonstration of the pop-up feature:
 
-<iframe src="https://www.loom.com/embed/8367ec56b5394b9a9d0e4df215b8cb74?sid=df46233b-450a-4646-9d0f-381bff0d684d" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+<iframe width="560" height="315" src="https://www.loom.com/embed/8367ec56b5394b9a9d0e4df215b8cb74?sid=df46233b-450a-4646-9d0f-381bff0d684d" frameborder="0" allowfullscreen></iframe>
+
 
 ## Contributions
 
